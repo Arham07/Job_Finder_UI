@@ -4,6 +4,8 @@ UI of Job Finder. Developed using Flutter
 
 ## 📱 Screen Shots
 
+<img src="https://user-images.githubusercontent.com/101502781/194038806-5a560952-79b3-42ba-8b20-38e09b9c9ffd.png" width=720>
+
 <img src="https://user-images.githubusercontent.com/101502781/160153700-cd0f6ddc-9b2f-47ea-b02d-73d9351c5983.jpeg" width=180>  <img src="https://user-images.githubusercontent.com/101502781/160153706-30bd0097-57ba-4d5c-b929-0641ca69579f.jpeg" width=180>  <img src="https://user-images.githubusercontent.com/101502781/160153713-f2487560-7e46-4cd1-8104-fe9b96fb4d8c.jpeg" width=180> 
 
 
